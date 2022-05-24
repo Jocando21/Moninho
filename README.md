@@ -17,7 +17,7 @@
     <a href="https://discord.gg/b3vjeUduBT" target="_blank"><strong>Comunidad Pepinoconflow</strong></a>
     <br />
     <br />
-    Desarollado por Jorge Ocando(Jocando#0562).
+    Desarollado por Jorge Ocando (Jocando#0562).
     <br />
     <a href="https://twitter.com/Jocando_" target="_blank">Twitter</a>
     ·
