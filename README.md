@@ -12,7 +12,7 @@
   <h3 align="center">Codigo Fuente de Moninho</h3>
 
   <p align="center">
-    An bot multiproposito para discord.
+    Un bot multiproposito para discord.
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
