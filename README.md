@@ -6,7 +6,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="[images/logo.png](https://cdn.discordapp.com/app-icons/978670649591607346/88471bb267c35339c75b2e937ed1d78e.png?size=512)" alt="Logo" width="80" height="80">
+    <img src="https://cdn.discordapp.com/attachments/545316153644548106/971146809042927616/unknown.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Codigo Fuente de Moninho</h3>
