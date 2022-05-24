@@ -17,17 +17,13 @@
     <a href="https://github.com/othneildrew/Best-README-Template](https://discord.gg/b3vjeUduBT)"><strong>Comunidad Pepinoconflow</strong></a>
     <br />
     <br />
-    Un bot multiproposito para discord.
+    Desarollado por Jorge Ocando(Jocando).
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">Twitter</a>
+    <a href="https://twitter.com/Jocando_">Twitter</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://www.instagram.com/jocando_/">Instagram</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://www.twitch.tv/jocandotv">Twitch</a>
   </p>
 </div>
-
-Repositorio de Bot de Moninho del canal de twitch de pepinoconflow
-https://www.twitch.tv/pepinoconflow
-
 © 2022 Jorge Ocando
