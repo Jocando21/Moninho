@@ -18,6 +18,7 @@
     <br />
     <br />
     Un bot multiproposito para discord.
+    <br />
     <a href="https://github.com/othneildrew/Best-README-Template">Twitter</a>
     ·
     <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
