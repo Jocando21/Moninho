@@ -1,6 +1,4 @@
-# Moninho Bot de discord
-
-
+# Moninho Bot
 
 <!-- PROJECT LOGO -->
 <br />
