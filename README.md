@@ -14,10 +14,11 @@
   <p align="center">
     Un bot multiproposito para discord.
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/othneildrew/Best-README-Template](https://discord.gg/b3vjeUduBT)"><strong>Comunidad Pepinoconflow</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    Un bot multiproposito para discord.
+    <a href="https://github.com/othneildrew/Best-README-Template">Twitter</a>
     ·
     <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
     ·
