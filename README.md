@@ -14,16 +14,16 @@
   <p align="center">
     Un bot multiproposito para discord.
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template](https://discord.gg/b3vjeUduBT)"><strong>Comunidad Pepinoconflow</strong></a>
+    <a href="https://discord.gg/b3vjeUduBT" target="_blank"><strong>Comunidad Pepinoconflow</strong></a>
     <br />
     <br />
     Desarollado por Jorge Ocando(Jocando#0562).
     <br />
-    <a href="https://twitter.com/Jocando_">Twitter</a>
+    <a href="https://twitter.com/Jocando_" target="_blank">Twitter</a>
     ·
-    <a href="https://www.instagram.com/jocando_/">Instagram</a>
+    <a href="https://www.instagram.com/jocando_/" target="_blank">Instagram</a>
     ·
-    <a href="https://www.twitch.tv/jocandotv">Twitch</a>
+    <a href="https://www.twitch.tv/jocandotv" target="_blank">Twitch</a>
     <br />
     © 2022 Jorge Ocando
   </p>
