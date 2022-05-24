@@ -19,7 +19,7 @@ async def moninho(ctx):
 async def coscorron (ctx, mention: discord.User):
     user = ctx.message.author.id
     await ctx.send(f"<@{user}> Le ha dado tremendo Coscorrón cuchiflús en le esquina inferior derecha del talon de aquiles a <@{mention.id}> que lo dejo morido bien muerto.")
-#Comando !monke manda un mensaje de coscorron al usuario tageado
+#Comando !monke manda un gif al azar con la palabra monkey usando la api de giphy
 @bot.command()
 async def monke(ctx,*,q="Monkey"):
     api_key = "WbkD0H5BGbui8J2nFeVs29SUM1g5LA4v"
@@ -41,6 +41,6 @@ async def monke(ctx,*,q="Monkey"):
 @bot.event
 async def on_ready():
     await bot.change_presence(activity=discord.Game(name='Ser facha 😎'))
-    print('Bot Corrriendo')
+    print('Bot En linea')
 
 bot.run('OTc3MzEyNDU3MzQzMjM4MjI0.GQhemf.RBiwo8KaMLV3_Vk7iRTXmAtbbpngQpgxbt4Ar8')
