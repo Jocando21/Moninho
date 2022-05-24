@@ -24,6 +24,7 @@
     <a href="https://www.instagram.com/jocando_/">Instagram</a>
     ·
     <a href="https://www.twitch.tv/jocandotv">Twitch</a>
+    <br />
     © 2022 Jorge Ocando
   </p>
 </div>
